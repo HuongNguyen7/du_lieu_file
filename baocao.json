@@ -1,0 +1,316 @@
+{
+"Sheet1":[
+ {
+  "id _không được xóa_": "id",
+  "Tên địa điểm___": "title",
+  "Liên quan các bệnh nhân": "patientId",
+  "Loại địa điểm___": "typePlace",
+  "Tỉnh thành___": "provinceId",
+  "Quận huyện___": "districtId",
+  "Phường xã___": "wardId",
+  "Địa chỉ": "address",
+  "Tọa độ trên GG map": "latlng",
+  "Tình trạng": "placeStatus",
+  "Mô tả": "description"
+ },
+ {
+  "id _không được xóa_": "60bde0852854216388543d9d",
+  "Tên địa điểm___": "Bệnh viện Đa khoa Tuyên Quang",
+  "Loại địa điểm___": "Bệnh viện, Trung tâm Y tế",
+  "Tỉnh thành___": "Tỉnh Tuyên Quang",
+  "Quận huyện___": "Thành phố Tuyên Quang",
+  "Tọa độ trên GG map": "21.82686029921388; 105.20330585833614",
+  "Mô tả": "Giám đốc BSCKII: Phạm Quang Thanh\nPhó giám đốc: Ngọc Đại Cương\nPhó giám đốc: Đoàn Lương Anh\nPhó giám đốc: Phạm Trọng Thuật\n- Bệnh viện hạng: I\n- Số phòng, khoa: 42\n- Số giường bệnh kế hoạch: 780 giường\n- Tổng số giường điều trị ca bệnh giám sát: 40\n- Số ca bệnh đang điều trị giám sát: 21\n- Đã có KQ xét nghiệm SARS- CoV-2: Lần 1:....; Lần 2:.....; Lần 3:....\nHotline: 0965351010"
+ },
+ {
+  "id _không được xóa_": "60bde0852854216388543d9e",
+  "Tên địa điểm___": "Bệnh viện Y dược Cổ truyền tỉnh TQ",
+  "Loại địa điểm___": "Bệnh viện, Trung tâm Y tế",
+  "Tỉnh thành___": "Tỉnh Tuyên Quang",
+  "Quận huyện___": "Thành phố Tuyên Quang",
+  "Tọa độ trên GG map": "21.830486136875248; 105.20488965040286",
+  "Mô tả": "Giám đốc BSCKII: Ngô Văn Hoàn\nPhó giám đốc:\nPhó giám đốc: \nPhó giám đốc: \n- Bệnh viện hạng: II\n- Số phòng, khoa: 9\n- Số giường bệnh kế hoạch: 200\n- Tổng số giường điều trị ca bệnh giám sát: .....\n- Số ca bệnh đang điều trị giám sát: 0\n- Đã có KQ xét nghiệm SARS- CoV-2: Lần 1:....; Lần 2:.....; Lần 3:....\nHotline: 0965251010"
+ },
+ {
+  "id _không được xóa_": "60bde0852854216388543d9f",
+  "Tên địa điểm___": "Bệnh viện Phổi Tuyên Quang",
+  "Loại địa điểm___": "Bệnh viện, Trung tâm Y tế",
+  "Tỉnh thành___": "Tỉnh Tuyên Quang",
+  "Quận huyện___": "Thành phố Tuyên Quang",
+  "Tọa độ trên GG map": "21.780239101579877; 105.20312011249878",
+  "Mô tả": "Giám đốc BSCKII: Nguyễn Thị Thu Hà\nPhó giám đốc: \n- Bệnh viện hạng: III\n- Số phòng, khoa: 50\n- Số giường bệnh kế hoạch: 100\n- Tổng số giường điều trị ca bệnh giám sát: 40\n- Số ca bệnh đang điều trị giám sát: 02\n- Số bệnh nhân F0 dương tính trở lại: 0\n- Số ca F0 âm tính lại đang được cách ly: 0\n- Số ca F0 âm tính đang cách ly: 02 người\nHotline: 0965281010"
+ },
+ {
+  "id _không được xóa_": "60bde0852854216388543da0",
+  "Tên địa điểm___": "Bệnh viện PHCN Hương Sen Tuyên Quang",
+  "Loại địa điểm___": "Bệnh viện, Trung tâm Y tế",
+  "Tỉnh thành___": "Tỉnh Tuyên Quang",
+  "Quận huyện___": "Thành phố Tuyên Quang",
+  "Tọa độ trên GG map": "21.825080583061986; 105.20421441733883",
+  "Mô tả": "Giám đốc BSCKII: Trần Thị Kim Thoa\nPhó giám đốc: \nPhó giám đốc:\nPhó giám đốc: \n- Bệnh viện hạng: III\n- Số phòng, khoa: 05\n- Số giường bệnh kế hoạch: 100\n- Tổng số giường điều trị ca bệnh giám sát: 10\n- Số ca bệnh đang điều trị giám sát: 0\n- Đã có KQ xét nghiệm SARS- CoV-2: Lần 1:....; Lần 2:.....; Lần 3:....\nHotline: 0969747238"
+ },
+ {
+  "id _không được xóa_": "60bde0852854216388543da1",
+  "Tên địa điểm___": "Bệnh viện Công an tỉnh Tuyên Quang",
+  "Loại địa điểm___": "Bệnh viện, Trung tâm Y tế",
+  "Tỉnh thành___": "Tỉnh Tuyên Quang",
+  "Quận huyện___": "Thành phố Tuyên Quang",
+  "Tọa độ trên GG map": "21.82621575368099; 105.2025299441875",
+  "Mô tả": "Giám đốc BSCKII: Sải Thị Kim Lan\nPhó giám đốc: Vũ Văn Tuấn \nPhó giám đốc: Hà Huy Hùng\nPhó giám đốc: \n- Bệnh viện hạng: III\n- Số phòng, khoa: \n- Số giường bệnh kế hoạch: 100\n- Tổng số giường điều trị ca bệnh giám sát: \n- Số ca bệnh đang điều trị giám sát: \n- Đã có KQ xét nghiệm SARS- CoV-2: Lần 1:....; Lần 2:.....; Lần 3:....\nHotline: 0816959688"
+ },
+ {
+  "id _không được xóa_": "60bde0852854216388543da2",
+  "Tên địa điểm___": "Bệnh viện Suối khoáng Mỹ Lâm",
+  "Loại địa điểm___": "Bệnh viện, Trung tâm Y tế",
+  "Tỉnh thành___": "Tỉnh Tuyên Quang",
+  "Quận huyện___": "Thành phố Tuyên Quang",
+  "Tọa độ trên GG map": "21.76586457275938; 105.13196840251562",
+  "Mô tả": "Giám đốc BSCKII: Nguyễn Quế Lâm\nPhó giám đốc: \nPhó giám đốc: \nPhó giám đốc: \n- Bệnh viện hạng: II\n- Số phòng, khoa: 8\n- Số giường bệnh kế hoạch: 70\n- Tổng số giường điều trị ca bệnh giám sát: \n- Số ca bệnh đang điều trị giám sát: 0\n- Đã có KQ xét nghiệm SARS- CoV-2: Lần 1:....; Lần 2:.....; Lần 3:....\nHotline: 0965291010"
+ },
+ {
+  "id _không được xóa_": "60bde0852854216388543da3",
+  "Tên địa điểm___": "Bệnh viện đa khoa Phương Bắc",
+  "Loại địa điểm___": "Bệnh viện, Trung tâm Y tế",
+  "Tỉnh thành___": "Tỉnh Tuyên Quang",
+  "Quận huyện___": "Thành phố Tuyên Quang",
+  "Tọa độ trên GG map": "21.832598757663465; 105.18878080700868",
+  "Mô tả": "Giám đốc BSCKII: Nguyễn Văn Cảnh\nPhó giám đốc: \nPhó giám đốc: \nPhó giám đốc: \n- Bệnh viện hạng: III\n- Số phòng, khoa: \n- Số giường bệnh kế hoạch: 70\n- Tổng số giường điều trị ca bệnh giám sát: \n- Số ca bệnh đang điều trị giám sát: 0\n- Đã có KQ xét nghiệm SARS- CoV-2: Lần 1:....; Lần 2:.....; Lần 3:....\nHotline: 0865525115"
+ },
+ {
+  "id _không được xóa_": "60bde0852854216388543da4",
+  "Tên địa điểm___": "TTYT huyện Yên Sơn",
+  "Loại địa điểm___": "Bệnh viện, Trung tâm Y tế",
+  "Tỉnh thành___": "Tỉnh Tuyên Quang",
+  "Quận huyện___": "Thành phố Tuyên Quang",
+  "Tọa độ trên GG map": "21.878740255665672; 105.16659720394274",
+  "Mô tả": "Giám đốc BSCKII: Hoàng Thanh Cảnh\nPhó giám đốc: Tạ Văn Tình\nPhó giám đốc: Phạm Đức Thắng\nPhó giám đốc: Phạm Đình Dũng\n- Bệnh viện hạng: III\n- Số phòng, khoa: 22\n- Số giường bệnh kế hoạch: 200\n- Tổng số giường điều trị ca bệnh giám sát: \n- Số ca bệnh đang điều trị giám sát: 01\n- Đã có KQ xét nghiệm SARS- CoV-2: Lần 1:....; Lần 2:.....; Lần 3:....\nHotline: 0965231010"
+ },
+ {
+  "id _không được xóa_": "60bde0852854216388543da5",
+  "Tên địa điểm___": "Bệnh viện Đa khoa khu vực ATK",
+  "Loại địa điểm___": "Bệnh viện, Trung tâm Y tế",
+  "Tỉnh thành___": "Tỉnh Tuyên Quang",
+  "Quận huyện___": "Huyện Yên Sơn",
+  "Tọa độ trên GG map": "21.950685696048332; 105.26695495269199",
+  "Mô tả": "Giám đốc BSCKII: Vũ Xuân Việt\nPhó giám đốc: Vi Thị Nghiệp\nPhó giám đốc: Nhữ Hồng Quyết\nPhó giám đốc: \n- Bệnh viện hạng: IV\n- Số phòng, khoa: 4\n- Số giường bệnh kế hoạch: 70\n- Tổng số giường điều trị ca bệnh giám sát: 0\n- Số ca bệnh đang điều trị giám sát: 0\n- Đã có KQ xét nghiệm SARS- CoV-2: Lần 1:....; Lần 2:.....; Lần 3:....\nHotline: 0965221010"
+ },
+ {
+  "id _không được xóa_": "60bde0852854216388543da6",
+  "Tên địa điểm___": "TTYT huyện Sơn Dương",
+  "Loại địa điểm___": "Bệnh viện, Trung tâm Y tế",
+  "Tỉnh thành___": "Tỉnh Tuyên Quang",
+  "Quận huyện___": "Huyện Sơn Dương",
+  "Tọa độ trên GG map": "21.69506218149609; 105.38734872935326",
+  "Mô tả": "Giám đốc BSCKII: Đỗ Văn Minh\nPhó giám đốc: Nguyễn Thị Thanh Cảnh\nPhó giám đốc: Giáp Văn Sơn\nPhó giám đốc: Ngô Cao Lâm\n- Bệnh viện hạng: II\n- Số phòng, khoa: 20\n- Số giường bệnh kế hoạch: 200\n- Tổng số giường điều trị ca bệnh giám sát: 0\n- Số ca bệnh đang điều trị giám sát: 0\n- Đã có KQ xét nghiệm SARS- CoV-2: Lần 1:....; Lần 2:.....; Lần 3:....\nHotline: 0965301010"
+ },
+ {
+  "id _không được xóa_": "60bde0852854216388543da7",
+  "Tên địa điểm___": "Bệnh viện Đa khoa khu vực Kim Xuyên",
+  "Loại địa điểm___": "Bệnh viện, Trung tâm Y tế",
+  "Tỉnh thành___": "Tỉnh Tuyên Quang",
+  "Quận huyện___": "Huyện Sơn Dương",
+  "Tọa độ trên GG map": "21.55892898997916; 105.27893781362862",
+  "Mô tả": "Giám đốc BSCKII: \nPhó giám đốc phụ trách BSCKI: Hoàng Văn Úc\nPhó giám đốc: Nguyễn Thành Vinh\nPhó giám đốc: \n- Bệnh viện hạng: III\n- Số phòng, khoa: 06\n- Số giường bệnh kế hoạch: 80\n- Tổng số giường điều trị ca bệnh giám sát: 0\n- Số ca bệnh đang điều trị giám sát: 0\n- Đã có KQ xét nghiệm SARS- CoV-2: Lần 1:....; Lần 2:.....; Lần 3:....\nHotline: 0965321010"
+ },
+ {
+  "id _không được xóa_": "60bde0852854216388543da8",
+  "Tên địa điểm___": "TTYT huyện Hàm Yên",
+  "Loại địa điểm___": "Bệnh viện, Trung tâm Y tế",
+  "Tỉnh thành___": "Tỉnh Tuyên Quang",
+  "Quận huyện___": "Huyện Hàm Yên",
+  "Tọa độ trên GG map": "22.0420002952387; 105.03607560513188",
+  "Mô tả": "Giám đốc BSCKII: Phùng Duy Bảo\nPhó giám đốc: Lê Hồng Tiến\nPhó giám đốc: Nguyễn Xuân Yên\nPhó giám đốc: Phan Thanh Tùng\n- Bệnh viện hạng: II\n- Số phòng, khoa: 20\n- Số giường bệnh kế hoạch: 200\n- Tổng số giường điều trị ca bệnh giám sát: 0\n- Số ca bệnh đang điều trị giám sát: 17\n- Đã có KQ xét nghiệm SARS- CoV-2: Lần 1:....; Lần 2:.....; Lần 3:....\nHotline: 0965331010"
+ },
+ {
+  "id _không được xóa_": "60bde0852854216388543da9",
+  "Tên địa điểm___": "TTYT huyện Chiêm Hóa",
+  "Loại địa điểm___": "Bệnh viện, Trung tâm Y tế",
+  "Tỉnh thành___": "Tỉnh Tuyên Quang",
+  "Quận huyện___": "Huyện Chiêm Hóa",
+  "Tọa độ trên GG map": "22.14519729587924; 105.27253032105003",
+  "Mô tả": "Giám đốc BSCKII: Nguyễn Hưng Đạo\nPhó giám đốc: Phạm Chí Cường\nPhó giám đốc: Hà Thị Bích Ngọc\nPhó giám đốc: Hà Thị Ái\n- Bệnh viện hạng: II\n- Số phòng, khoa: 22\n- Số giường bệnh kế hoạch: 350\n- Tổng số giường điều trị ca bệnh giám sát: 0\n- Số ca bệnh đang điều trị giám sát: 0\n- Đã có KQ xét nghiệm SARS- CoV-2: Lần 1:....; Lần 2:.....; Lần 3:....\nHotline: 0965341010"
+ },
+ {
+  "id _không được xóa_": "60bde0852854216388543daa",
+  "Tên địa điểm___": "TTYT huyện Na Hang",
+  "Loại địa điểm___": "Bệnh viện, Trung tâm Y tế",
+  "Tỉnh thành___": "Tỉnh Tuyên Quang",
+  "Tọa độ trên GG map": "22.380535580603254; 105.35121476781623",
+  "Mô tả": "Giám đốc BSCKII: Trần Tuấn Bình\nPhó giám đốc: Nguyễn Thế Phương\nPhó giám đốc: Nông Văn Luân\nPhó giám đốc: \n- Bệnh viện hạng: III\n- Số phòng, khoa: 13\n- Số giường bệnh kế hoạch: 90\n- Tổng số giường điều trị ca bệnh giám sát: 0\n- Số ca bệnh đang điều trị giám sát: \n- Đã có KQ xét nghiệm SARS- CoV-2: Lần 1:....; Lần 2:.....; Lần 3:....\nHotline: 0366716868"
+ },
+ {
+  "id _không được xóa_": "60bde0852854216388543dab",
+  "Tên địa điểm___": "TTYT huyện Lâm Bình",
+  "Loại địa điểm___": "Bệnh viện, Trung tâm Y tế",
+  "Tỉnh thành___": "Tỉnh Tuyên Quang",
+  "Quận huyện___": "Huyện Lâm Bình",
+  "Tọa độ trên GG map": "22.447860639488688; 105.23171913877495",
+  "Mô tả": "Giám đốc BSCKII: Vũ Trọng Thành\nPhó giám đốc: Ngô Văn Chiến\nPhó giám đốc: Hứa Văn Kiên\nPhó giám đốc: \n- Bệnh viện hạng: III\n- Số phòng, khoa: 12\n- Số giường bệnh kế hoạch: 65\n- Tổng số giường điều trị ca bệnh giám sát: \n- Số ca bệnh đang điều trị giám sát: 01\n- Đã có KQ xét nghiệm SARS- CoV-2: Lần 1:....; Lần 2:.....; Lần 3:....\nHotline: 0969740838; 0207 6298666"
+ },
+ {
+  "id _không được xóa_": "60bde0852854216388543dac",
+  "Tên địa điểm___": "TTYT thành phố Tuyên Quang",
+  "Loại địa điểm___": "Bệnh viện, Trung tâm Y tế",
+  "Tỉnh thành___": "Tỉnh Tuyên Quang",
+  "Quận huyện___": "Thành phố Tuyên Quang",
+  "Tọa độ trên GG map": "21.845007402208307; 105.22274673247921",
+  "Mô tả": "Giám đốc BSCKII: Nguyễn Quốc Linh\nPhó giám đốc: Mai Thị Hồng Thúy\nPhó giám đốc: \nPhó giám đốc: \n- Bệnh viện hạng: \n- Số phòng, khoa: 4\n- Số giường bệnh kế hoạch: 0\n- Tổng số giường điều trị ca bệnh giám sát: 0\n- Số ca bệnh đang điều trị giám sát: 02\n- Đã có KQ xét nghiệm SARS- CoV-2: Lần 1:....; Lần 2:.....; Lần 3:....\nHotline: 0912207212"
+ },
+ {
+  "id _không được xóa_": "id",
+  "Tên địa điểm___": "title",
+  "Liên quan các bệnh nhân": "patientId",
+  "Loại địa điểm___": "typePlace",
+  "Tỉnh thành___": "provinceId",
+  "Quận huyện___": "districtId",
+  "Phường xã___": "wardId",
+  "Địa chỉ": "address",
+  "Tọa độ trên GG map": "latlng",
+  "Tình trạng": "placeStatus",
+  "Mô tả": "description"
+ },
+ {
+  "id _không được xóa_": "60bde0852854216388543d9d",
+  "Tên địa điểm___": "Bệnh viện Đa khoa Tuyên Quang",
+  "Loại địa điểm___": "Bệnh viện, Trung tâm Y tế",
+  "Tỉnh thành___": "Tỉnh Tuyên Quang",
+  "Quận huyện___": "Thành phố Tuyên Quang",
+  "Tọa độ trên GG map": "21.82686029921388; 105.20330585833614",
+  "Mô tả": "Giám đốc BSCKII: Phạm Quang Thanh\nPhó giám đốc: Ngọc Đại Cương\nPhó giám đốc: Đoàn Lương Anh\nPhó giám đốc: Phạm Trọng Thuật\n- Bệnh viện hạng: I\n- Số phòng, khoa: 42\n- Số giường bệnh kế hoạch: 780 giường\n- Tổng số giường điều trị ca bệnh giám sát: 40\n- Số ca bệnh đang điều trị giám sát: 21\n- Đã có KQ xét nghiệm SARS- CoV-2: Lần 1:....; Lần 2:.....; Lần 3:....\nHotline: 0965351010"
+ },
+ {
+  "id _không được xóa_": "60bde0852854216388543d9e",
+  "Tên địa điểm___": "Bệnh viện Y dược Cổ truyền tỉnh TQ",
+  "Loại địa điểm___": "Bệnh viện, Trung tâm Y tế",
+  "Tỉnh thành___": "Tỉnh Tuyên Quang",
+  "Quận huyện___": "Thành phố Tuyên Quang",
+  "Tọa độ trên GG map": "21.830486136875248; 105.20488965040286",
+  "Mô tả": "Giám đốc BSCKII: Ngô Văn Hoàn\nPhó giám đốc:\nPhó giám đốc: \nPhó giám đốc: \n- Bệnh viện hạng: II\n- Số phòng, khoa: 9\n- Số giường bệnh kế hoạch: 200\n- Tổng số giường điều trị ca bệnh giám sát: .....\n- Số ca bệnh đang điều trị giám sát: 0\n- Đã có KQ xét nghiệm SARS- CoV-2: Lần 1:....; Lần 2:.....; Lần 3:....\nHotline: 0965251010"
+ },
+ {
+  "id _không được xóa_": "60bde0852854216388543d9f",
+  "Tên địa điểm___": "Bệnh viện Phổi Tuyên Quang",
+  "Loại địa điểm___": "Bệnh viện, Trung tâm Y tế",
+  "Tỉnh thành___": "Tỉnh Tuyên Quang",
+  "Quận huyện___": "Thành phố Tuyên Quang",
+  "Tọa độ trên GG map": "21.780239101579877; 105.20312011249878",
+  "Mô tả": "Giám đốc BSCKII: Nguyễn Thị Thu Hà\nPhó giám đốc: \n- Bệnh viện hạng: III\n- Số phòng, khoa: 50\n- Số giường bệnh kế hoạch: 100\n- Tổng số giường điều trị ca bệnh giám sát: 40\n- Số ca bệnh đang điều trị giám sát: 02\n- Số bệnh nhân F0 dương tính trở lại: 0\n- Số ca F0 âm tính lại đang được cách ly: 0\n- Số ca F0 âm tính đang cách ly: 02 người\nHotline: 0965281010"
+ },
+ {
+  "id _không được xóa_": "60bde0852854216388543da0",
+  "Tên địa điểm___": "Bệnh viện PHCN Hương Sen Tuyên Quang",
+  "Loại địa điểm___": "Bệnh viện, Trung tâm Y tế",
+  "Tỉnh thành___": "Tỉnh Tuyên Quang",
+  "Quận huyện___": "Thành phố Tuyên Quang",
+  "Tọa độ trên GG map": "21.825080583061986; 105.20421441733883",
+  "Mô tả": "Giám đốc BSCKII: Trần Thị Kim Thoa\nPhó giám đốc: \nPhó giám đốc:\nPhó giám đốc: \n- Bệnh viện hạng: III\n- Số phòng, khoa: 05\n- Số giường bệnh kế hoạch: 100\n- Tổng số giường điều trị ca bệnh giám sát: 10\n- Số ca bệnh đang điều trị giám sát: 0\n- Đã có KQ xét nghiệm SARS- CoV-2: Lần 1:....; Lần 2:.....; Lần 3:....\nHotline: 0969747238"
+ },
+ {
+  "id _không được xóa_": "60bde0852854216388543da1",
+  "Tên địa điểm___": "Bệnh viện Công an tỉnh Tuyên Quang",
+  "Loại địa điểm___": "Bệnh viện, Trung tâm Y tế",
+  "Tỉnh thành___": "Tỉnh Tuyên Quang",
+  "Quận huyện___": "Thành phố Tuyên Quang",
+  "Tọa độ trên GG map": "21.82621575368099; 105.2025299441875",
+  "Mô tả": "Giám đốc BSCKII: Sải Thị Kim Lan\nPhó giám đốc: Vũ Văn Tuấn \nPhó giám đốc: Hà Huy Hùng\nPhó giám đốc: \n- Bệnh viện hạng: III\n- Số phòng, khoa: \n- Số giường bệnh kế hoạch: 100\n- Tổng số giường điều trị ca bệnh giám sát: \n- Số ca bệnh đang điều trị giám sát: \n- Đã có KQ xét nghiệm SARS- CoV-2: Lần 1:....; Lần 2:.....; Lần 3:....\nHotline: 0816959688"
+ },
+ {
+  "id _không được xóa_": "60bde0852854216388543da2",
+  "Tên địa điểm___": "Bệnh viện Suối khoáng Mỹ Lâm",
+  "Loại địa điểm___": "Bệnh viện, Trung tâm Y tế",
+  "Tỉnh thành___": "Tỉnh Tuyên Quang",
+  "Quận huyện___": "Thành phố Tuyên Quang",
+  "Tọa độ trên GG map": "21.76586457275938; 105.13196840251562",
+  "Mô tả": "Giám đốc BSCKII: Nguyễn Quế Lâm\nPhó giám đốc: \nPhó giám đốc: \nPhó giám đốc: \n- Bệnh viện hạng: II\n- Số phòng, khoa: 8\n- Số giường bệnh kế hoạch: 70\n- Tổng số giường điều trị ca bệnh giám sát: \n- Số ca bệnh đang điều trị giám sát: 0\n- Đã có KQ xét nghiệm SARS- CoV-2: Lần 1:....; Lần 2:.....; Lần 3:....\nHotline: 0965291010"
+ },
+ {
+  "id _không được xóa_": "60bde0852854216388543da3",
+  "Tên địa điểm___": "Bệnh viện đa khoa Phương Bắc",
+  "Loại địa điểm___": "Bệnh viện, Trung tâm Y tế",
+  "Tỉnh thành___": "Tỉnh Tuyên Quang",
+  "Quận huyện___": "Thành phố Tuyên Quang",
+  "Tọa độ trên GG map": "21.832598757663465; 105.18878080700868",
+  "Mô tả": "Giám đốc BSCKII: Nguyễn Văn Cảnh\nPhó giám đốc: \nPhó giám đốc: \nPhó giám đốc: \n- Bệnh viện hạng: III\n- Số phòng, khoa: \n- Số giường bệnh kế hoạch: 70\n- Tổng số giường điều trị ca bệnh giám sát: \n- Số ca bệnh đang điều trị giám sát: 0\n- Đã có KQ xét nghiệm SARS- CoV-2: Lần 1:....; Lần 2:.....; Lần 3:....\nHotline: 0865525115"
+ },
+ {
+  "id _không được xóa_": "60bde0852854216388543da4",
+  "Tên địa điểm___": "TTYT huyện Yên Sơn",
+  "Loại địa điểm___": "Bệnh viện, Trung tâm Y tế",
+  "Tỉnh thành___": "Tỉnh Tuyên Quang",
+  "Quận huyện___": "Thành phố Tuyên Quang",
+  "Tọa độ trên GG map": "21.878740255665672; 105.16659720394274",
+  "Mô tả": "Giám đốc BSCKII: Hoàng Thanh Cảnh\nPhó giám đốc: Tạ Văn Tình\nPhó giám đốc: Phạm Đức Thắng\nPhó giám đốc: Phạm Đình Dũng\n- Bệnh viện hạng: III\n- Số phòng, khoa: 22\n- Số giường bệnh kế hoạch: 200\n- Tổng số giường điều trị ca bệnh giám sát: \n- Số ca bệnh đang điều trị giám sát: 01\n- Đã có KQ xét nghiệm SARS- CoV-2: Lần 1:....; Lần 2:.....; Lần 3:....\nHotline: 0965231010"
+ },
+ {
+  "id _không được xóa_": "60bde0852854216388543da5",
+  "Tên địa điểm___": "Bệnh viện Đa khoa khu vực ATK",
+  "Loại địa điểm___": "Bệnh viện, Trung tâm Y tế",
+  "Tỉnh thành___": "Tỉnh Tuyên Quang",
+  "Quận huyện___": "Huyện Yên Sơn",
+  "Tọa độ trên GG map": "21.950685696048332; 105.26695495269199",
+  "Mô tả": "Giám đốc BSCKII: Vũ Xuân Việt\nPhó giám đốc: Vi Thị Nghiệp\nPhó giám đốc: Nhữ Hồng Quyết\nPhó giám đốc: \n- Bệnh viện hạng: IV\n- Số phòng, khoa: 4\n- Số giường bệnh kế hoạch: 70\n- Tổng số giường điều trị ca bệnh giám sát: 0\n- Số ca bệnh đang điều trị giám sát: 0\n- Đã có KQ xét nghiệm SARS- CoV-2: Lần 1:....; Lần 2:.....; Lần 3:....\nHotline: 0965221010"
+ },
+ {
+  "id _không được xóa_": "60bde0852854216388543da6",
+  "Tên địa điểm___": "TTYT huyện Sơn Dương",
+  "Loại địa điểm___": "Bệnh viện, Trung tâm Y tế",
+  "Tỉnh thành___": "Tỉnh Tuyên Quang",
+  "Quận huyện___": "Huyện Sơn Dương",
+  "Tọa độ trên GG map": "21.69506218149609; 105.38734872935326",
+  "Mô tả": "Giám đốc BSCKII: Đỗ Văn Minh\nPhó giám đốc: Nguyễn Thị Thanh Cảnh\nPhó giám đốc: Giáp Văn Sơn\nPhó giám đốc: Ngô Cao Lâm\n- Bệnh viện hạng: II\n- Số phòng, khoa: 20\n- Số giường bệnh kế hoạch: 200\n- Tổng số giường điều trị ca bệnh giám sát: 0\n- Số ca bệnh đang điều trị giám sát: 0\n- Đã có KQ xét nghiệm SARS- CoV-2: Lần 1:....; Lần 2:.....; Lần 3:....\nHotline: 0965301010"
+ },
+ {
+  "id _không được xóa_": "60bde0852854216388543da7",
+  "Tên địa điểm___": "Bệnh viện Đa khoa khu vực Kim Xuyên",
+  "Loại địa điểm___": "Bệnh viện, Trung tâm Y tế",
+  "Tỉnh thành___": "Tỉnh Tuyên Quang",
+  "Quận huyện___": "Huyện Sơn Dương",
+  "Tọa độ trên GG map": "21.55892898997916; 105.27893781362862",
+  "Mô tả": "Giám đốc BSCKII: \nPhó giám đốc phụ trách BSCKI: Hoàng Văn Úc\nPhó giám đốc: Nguyễn Thành Vinh\nPhó giám đốc: \n- Bệnh viện hạng: III\n- Số phòng, khoa: 06\n- Số giường bệnh kế hoạch: 80\n- Tổng số giường điều trị ca bệnh giám sát: 0\n- Số ca bệnh đang điều trị giám sát: 0\n- Đã có KQ xét nghiệm SARS- CoV-2: Lần 1:....; Lần 2:.....; Lần 3:....\nHotline: 0965321010"
+ },
+ {
+  "id _không được xóa_": "60bde0852854216388543da8",
+  "Tên địa điểm___": "TTYT huyện Hàm Yên",
+  "Loại địa điểm___": "Bệnh viện, Trung tâm Y tế",
+  "Tỉnh thành___": "Tỉnh Tuyên Quang",
+  "Quận huyện___": "Huyện Hàm Yên",
+  "Tọa độ trên GG map": "22.0420002952387; 105.03607560513188",
+  "Mô tả": "Giám đốc BSCKII: Phùng Duy Bảo\nPhó giám đốc: Lê Hồng Tiến\nPhó giám đốc: Nguyễn Xuân Yên\nPhó giám đốc: Phan Thanh Tùng\n- Bệnh viện hạng: II\n- Số phòng, khoa: 20\n- Số giường bệnh kế hoạch: 200\n- Tổng số giường điều trị ca bệnh giám sát: 0\n- Số ca bệnh đang điều trị giám sát: 17\n- Đã có KQ xét nghiệm SARS- CoV-2: Lần 1:....; Lần 2:.....; Lần 3:....\nHotline: 0965331010"
+ },
+ {
+  "id _không được xóa_": "60bde0852854216388543da9",
+  "Tên địa điểm___": "TTYT huyện Chiêm Hóa",
+  "Loại địa điểm___": "Bệnh viện, Trung tâm Y tế",
+  "Tỉnh thành___": "Tỉnh Tuyên Quang",
+  "Quận huyện___": "Huyện Chiêm Hóa",
+  "Tọa độ trên GG map": "22.14519729587924; 105.27253032105003",
+  "Mô tả": "Giám đốc BSCKII: Nguyễn Hưng Đạo\nPhó giám đốc: Phạm Chí Cường\nPhó giám đốc: Hà Thị Bích Ngọc\nPhó giám đốc: Hà Thị Ái\n- Bệnh viện hạng: II\n- Số phòng, khoa: 22\n- Số giường bệnh kế hoạch: 350\n- Tổng số giường điều trị ca bệnh giám sát: 0\n- Số ca bệnh đang điều trị giám sát: 0\n- Đã có KQ xét nghiệm SARS- CoV-2: Lần 1:....; Lần 2:.....; Lần 3:....\nHotline: 0965341010"
+ },
+ {
+  "id _không được xóa_": "60bde0852854216388543daa",
+  "Tên địa điểm___": "TTYT huyện Na Hang",
+  "Loại địa điểm___": "Bệnh viện, Trung tâm Y tế",
+  "Tỉnh thành___": "Tỉnh Tuyên Quang",
+  "Tọa độ trên GG map": "22.380535580603254; 105.35121476781623",
+  "Mô tả": "Giám đốc BSCKII: Trần Tuấn Bình\nPhó giám đốc: Nguyễn Thế Phương\nPhó giám đốc: Nông Văn Luân\nPhó giám đốc: \n- Bệnh viện hạng: III\n- Số phòng, khoa: 13\n- Số giường bệnh kế hoạch: 90\n- Tổng số giường điều trị ca bệnh giám sát: 0\n- Số ca bệnh đang điều trị giám sát: \n- Đã có KQ xét nghiệm SARS- CoV-2: Lần 1:....; Lần 2:.....; Lần 3:....\nHotline: 0366716868"
+ },
+ {
+  "id _không được xóa_": "60bde0852854216388543dab",
+  "Tên địa điểm___": "TTYT huyện Lâm Bình",
+  "Loại địa điểm___": "Bệnh viện, Trung tâm Y tế",
+  "Tỉnh thành___": "Tỉnh Tuyên Quang",
+  "Quận huyện___": "Huyện Lâm Bình",
+  "Tọa độ trên GG map": "22.447860639488688; 105.23171913877495",
+  "Mô tả": "Giám đốc BSCKII: Vũ Trọng Thành\nPhó giám đốc: Ngô Văn Chiến\nPhó giám đốc: Hứa Văn Kiên\nPhó giám đốc: \n- Bệnh viện hạng: III\n- Số phòng, khoa: 12\n- Số giường bệnh kế hoạch: 65\n- Tổng số giường điều trị ca bệnh giám sát: \n- Số ca bệnh đang điều trị giám sát: 01\n- Đã có KQ xét nghiệm SARS- CoV-2: Lần 1:....; Lần 2:.....; Lần 3:....\nHotline: 0969740838; 0207 6298666"
+ },
+ {
+  "id _không được xóa_": "60bde0852854216388543dac",
+  "Tên địa điểm___": "TTYT thành phố Tuyên Quang",
+  "Loại địa điểm___": "Bệnh viện, Trung tâm Y tế",
+  "Tỉnh thành___": "Tỉnh Tuyên Quang",
+  "Quận huyện___": "Thành phố Tuyên Quang",
+  "Tọa độ trên GG map": "21.845007402208307; 105.22274673247921",
+  "Mô tả": "Giám đốc BSCKII: Nguyễn Quốc Linh\nPhó giám đốc: Mai Thị Hồng Thúy\nPhó giám đốc: \nPhó giám đốc: \n- Bệnh viện hạng: \n- Số phòng, khoa: 4\n- Số giường bệnh kế hoạch: 0\n- Tổng số giường điều trị ca bệnh giám sát: 0\n- Số ca bệnh đang điều trị giám sát: 02\n- Đã có KQ xét nghiệm SARS- CoV-2: Lần 1:....; Lần 2:.....; Lần 3:....\nHotline: 0912207212"
+ }
+]
+}
